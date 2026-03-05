@@ -2,6 +2,8 @@
 
 This repository contains a collection of research, strategies, and architectural patterns for securing autonomous AI agents and building "AI-native" security operations. The documentation explores the shift from reactive guardrails to structural security, the evolution of the Agentic SOC, and the governance of autonomous systems.
 
+This is based on Notebook LM from the [Unprompted Conference](https://unpromptedcon.org/) developed by [Rob Lee](https://www.linkedin.com/in/leerob/)
+
 ## 📑 Contents
 
 ### Documentation
@@ -13,9 +15,9 @@ This repository contains a collection of research, strategies, and architectural
 *   **[Governance](governance.md)**: Challenges in governing non-deterministic agents, managing "Shadow AI," and strategies for feature-based enablement and tiered risk ownership.
 
 ### Visuals
-*   **Intent Detection**: Concepts for identifying malicious intent within agentic reasoning loops.
-*   **Prompt Injections**: Illustrating the mechanics of injection attacks and the failure of syntactic filters.
-*   **Agentic SOC**: Architectural diagrams for modern, agent-augmented Security Operations Centers.
+*   **[Intent Detection](intent-detection.png)**: Concepts for identifying malicious intent within agentic reasoning loops.
+*   **[Prompt Injections](prompt-injections.png)**: Illustrating the mechanics of injection attacks and the failure of syntactic filters.
+*   **[Agentic SOC](soc.png)**: Architectural diagrams for modern, agent-augmented Security Operations Centers.
 
 ## 🛠 Key Concepts
 
