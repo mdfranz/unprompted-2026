@@ -1,0 +1,948 @@
+[
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "08:30",
+    "end": "09:00",
+    "title": "Gathering & Mingling",
+    "speakers": [
+      "N/A"
+    ],
+    "company": "",
+    "abstract": "",
+    "summary": "Welcome reception and networking session."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "09:00",
+    "end": "09:10",
+    "title": "Opening Words - \u201cResearch conferences aren\u2019t effective.\u201d",
+    "speakers": [
+      "Gadi Evron"
+    ],
+    "company": "Knostic",
+    "abstract": "A presentation originally given by Joe Stewart at ACoD, many a-year ago.\nSome of us are introverts, and even if we\u2019re not it\u2019s difficult to know who in the crowd we should speak with. Who can help us on what we need? Who can we help?\nBeyond random encounters with 3-12 people, how do we make interactions effective?\nWe have a plan.",
+    "summary": "Opening keynote discussing how to make conference interactions more effective."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "09:10",
+    "end": "09:20",
+    "title": "Move between rooms",
+    "speakers": [],
+    "company": "",
+    "abstract": "",
+    "summary": "Transition period between sessions."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "09:20",
+    "end": "09:35",
+    "title": "Evaluating Threats & Automating Defense: How Google is Advancing Code Security",
+    "speakers": [
+      "Heather Adkins",
+      "Four Flynn"
+    ],
+    "company": "Google / Google Deepmind",
+    "abstract": "Our discussion will focus on advancing code security, provide a comprehensive overview of Google\u2019s AI security strategy, show how we evaluate emerging cyberattack capabilities and demonstrate how tools like CodeMender are helping build intrinsically safer software.",
+    "summary": "Insights into Google's AI security strategy and tools like CodeMender for safer software."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "09:35",
+    "end": "10:00",
+    "title": "The Hard Part Isn't Building the Agent: On Measuring Agent Effectiveness to Improve It",
+    "speakers": [
+      "Joshua Saxe"
+    ],
+    "company": "Meta",
+    "abstract": "As AI coding tools drive the cost of building security agents toward zero, the hard problem becomes knowing whether they'll actually work in the wild against real attacks and vulnerabilities we haven't seen before. This talk shares a practical journey from naive precision/recall metrics on old data toward multi-dimensional evaluation that captures reasoning quality, evidence gathering, and tool-calling logic --and shows how proper measurement unlocks automated agent improvement using genetic algorithms and AI coding tools. Live demo included.",
+    "summary": "Using multi-dimensional evaluation and genetic algorithms to improve security agent effectiveness."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 2",
+    "start": "09:35",
+    "end": "10:00",
+    "title": "Establishing AI Governance Without Stifling Innovation: Lessons Learned",
+    "speakers": [
+      "Billy Norwood"
+    ],
+    "company": "FFF Enterprises",
+    "abstract": "Strategy and implementation of a risk-based AI governance committee in a healthcare services firm and our successes and failures along the way.",
+    "summary": "Practical lessons from implementing a risk-based AI governance committee in healthcare."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "10:00",
+    "end": "10:25",
+    "title": "Security Guidance as a Service: Building an AI-Native Blueprint for Defensive Security",
+    "speakers": [
+      "Shruti Datta Gupta",
+      "Chandrani Mukherjee"
+    ],
+    "company": "Adobe",
+    "abstract": "Providing consistent security guidance at scale is hard, especially in AI-first environments. This session explores how we built an AI-Native Security Guidance as a Service that centralizes security knowledge and powers multiple defensive AI capabilities with consistent, evaluated and bespoke guidance.",
+    "summary": "Centralizing security knowledge to power consistent, AI-native defensive capabilities at Adobe."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 2",
+    "start": "10:00",
+    "end": "10:25",
+    "title": "Enterprise AI Governance at Snowflake: Balancing Innovation and Risk",
+    "speakers": [
+      "Ragini Ramalingam"
+    ],
+    "company": "Snowflake",
+    "abstract": "As generative AI technologies continue to evolve, organizations are working to thoughtfully balance innovation with appropriate governance. In this session, Ragini Ramalingam, Director of Enterprise Security at Snowflake, shares perspectives on supporting responsible AI adoption within a large, dynamic enterprise environment. She will discuss practical approaches to establishing governance frameworks, fostering cross-functional collaboration, and embedding security considerations into emerging technologies\u2014helping organizations enable innovation in a structured, risk-aware manner.",
+    "summary": "Frameworks for responsible AI adoption and cross-functional governance at Snowflake."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "10:25",
+    "end": "10:45",
+    "title": "Coffee break",
+    "speakers": [],
+    "company": "",
+    "abstract": "",
+    "summary": "Networking and refreshment break."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 2",
+    "start": "10:25",
+    "end": "10:45",
+    "title": "Coffee break",
+    "speakers": [],
+    "company": "",
+    "abstract": "",
+    "summary": "Networking and refreshment break."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "10:45",
+    "end": "11:10",
+    "title": "Guardrails beyond Vibes: Shipping Security Agents in Production",
+    "speakers": [
+      "Jeffrey Zhang",
+      "Siddh Shah"
+    ],
+    "company": "Stripe",
+    "abstract": "In this talk, we\u2019ll share how Stripe is using AI agents to streamline two high-friction security workflows: threat modeling and security request routing. We\u2019ll cover the practical design choices that made these agents reliable in practice - modular orchestrator/child architectures, targeted tools, structured inputs/outputs, and validation to reduce variance and improve determinism. We\u2019ll also walk through how we measure and improve agent quality over time using offline and online evaluation loops, including how we handle subjective outputs in threat modeling versus higher-signal feedback in routing. The session closes with concrete lessons on what worked, what didn\u2019t, with automating security workflows without losing user trust.",
+    "summary": "Design choices and evaluation loops for reliable AI security agents at Stripe."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 2",
+    "start": "10:45",
+    "end": "11:10",
+    "title": "Three Phases of AI Adoption: From GPU Lottery to Enterprise Agreements",
+    "speakers": [
+      "Chase Hasbrouck"
+    ],
+    "company": "U.S. Army Cyber Command",
+    "abstract": "The Army's path to enterprise AI shows a pattern every organization will face: deployment constraints shape adoption more than security policies. In 2023, fragmented research previews meant high innovation but no institutional knowledge. In 2024, centralized solutions with token budgets killed experimentation. Power users burned through monthly allocations in one or two queries, exactly the people you most want to encourage. In 2025, enterprise agreements removed cost barriers, but now we're grappling with cultural change: convincing people the tool is actually usable, then dealing with downstream implications when they believe us. As an early power user applying AI to incident response and forensics in Army Cyber, I helped my organization navigate each phase, and can share my lessons learned. (Disclaimer: Personal experience only, not official Army positions.)",
+    "summary": "Lessons from the U.S. Army's journey through fragmented, centralized, and enterprise AI adoption."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "11:10",
+    "end": "11:35",
+    "title": "Code Is Free: Securing Software in the Agentic Future",
+    "speakers": [
+      "Paul McMillan",
+      "Ryan Lopopolo"
+    ],
+    "company": "OpenAI",
+    "abstract": "If you have a perfect software security program, this talk is not for you. For everyone else, join us in an AI-maximalist vision of a future you can implement today. Your engineers are using LLMs to write your code, why aren\u2019t they using them for security? We\u2019ll talk about engineering-first ways to improve the security of your projects with zero-friction additions. Want a new security invariant? Just ask the model\u2014Code is Free.",
+    "summary": "Engineering-first methods to improve software security using LLMs with zero friction."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 2",
+    "start": "11:10",
+    "end": "11:35",
+    "title": "SIFT - FIND EVIL!! I Gave Claude Code R00t on the DFIR SIFT Workstation",
+    "speakers": [
+      "Rob T. Lee"
+    ],
+    "company": "SANS Institute",
+    "abstract": "Sounds reckless. Turns out it's less reckless than letting state actors be the only ones with agentic AI. Anthropic's GTG-1002 report showed adversaries running Claude Code at 80-90% autonomous execution. Your adversary has an AI. You have tab-completion. I wired the same tool into SIFT via Model Context Protocol\u2014timeline generation, memory analysis, malware sweeps, all via natural language. By the end, you'll see me type \"SIFT!! Find Evil!\" and watch it actually work. Mostly. This is what 40+ hours of testing taught me.",
+    "summary": "Demonstrating autonomous digital forensics and incident response using Claude Code and MCP."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "11:35",
+    "end": "12:00",
+    "title": "AI Agents for Exploiting \"Auth-by-One\" Errors",
+    "speakers": [
+      "Brendan Dolan-Gavitt",
+      "Vincent Olesen"
+    ],
+    "company": "XBOW",
+    "abstract": "Modern web applications support a dizzying array of mechanisms to authenticate users and determine whether they are authorized to access application resources. Unfortunately, these mechanisms are largely bespoke, and finding vulnerabilities in such systems has traditionally been the domain of human researchers.\nIn this talk, we will present techniques for finding\u2014and, importantly, validating\u2014access control flaws using AI agents. Starting with strict validators that can identify when we have successfully logged in to an account (for AuthN validation) and (for AuthZ validation) when we can access a protected resource, our key insight is that these validators allow us to build capable attack agents for exploiting auth vulnerabilities. We will demo these techniques by showing real-world examples of exploits we have discovered in production systems.",
+    "summary": "Using AI agents to find and validate access control flaws in modern web applications."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 2",
+    "start": "11:35",
+    "end": "12:00",
+    "title": "\"Can You See What Your AI Saw?\": GenAI Endpoint Observability for Detection Engineers",
+    "speakers": [
+      "Mika Ayenson"
+    ],
+    "company": "Elastic",
+    "abstract": "As GenAI coding assistants become standard developer tools, detection engineers face a new challenge: understanding what happens when AI executes commands on behalf of users. This talk explores the current state of GenAI endpoint observability from a practitioner's perspective, what telemetry exists today, where the gaps are, and why the industry needs standardized schemas for AI activity. Through real queries and telemetry examples, we'll walk through techniques for correlating AI-spawned processes across multi-level ancestry chains, discuss blind spots that surprised us during testing, and make the case for extending and adopting OpenTelemetry semantic conventions to cover GenAI tool activity on endpoints.",
+    "summary": "Addressing telemetry gaps and standardizing schemas for monitoring AI activity on endpoints."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "12:00",
+    "end": "12:25",
+    "title": "Developing & Deploying AI Fingerprints for Advanced Threat Detection",
+    "speakers": [
+      "Natalie Isak",
+      "Waris Gill"
+    ],
+    "company": "Microsoft",
+    "abstract": "As LLM-powered services proliferate, so do prompt injection attacks, but privacy regulations prevent sharing raw threat data across organizational boundaries. This talk introduces BinaryShield, a privacy-preserving fingerprinting system that enables cross-service threat intelligence without exposing sensitive user prompts. We'll cover the research behind the approach (arXiv:2509.05608) and share practical deployment applications (including a demo!) for threat intelligence.\nResearch Paper Link: Cross-Service Threat Intelligence in LLM Services using Privacy-Preserving Fingerprints",
+    "summary": "Privacy-preserving threat intelligence using BinaryShield fingerprints for LLM services."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 2",
+    "start": "12:00",
+    "end": "12:25",
+    "title": "Detecting GenAI Threats at Scale with YARA-Like Semantic Rules",
+    "speakers": [
+      "Mohamed Nabeel"
+    ],
+    "company": "Palo Alto Networks",
+    "abstract": "Traditional YARA rules revolutionized malware hunting, but they fail against semantic GenAI threats like prompt injection, brand impersonation, and disinformation campaigns. SYARA (Super YARA) extends YARA's beloved syntax with multi-modal semantic detection\u2014combining string matching, embeddings, ML classifiers, and LLMs in a single rule. In this hands-on session, you'll learn to hunt GenAI-era threats including direct/indirect prompt injection, phishing detection using perceptual hashes, malicious intent identification, and disinformation detection. We'll demonstrate why semantic detection at scale requires efficient layered approaches rather than expensive LLM-only solutions, achieving 98% detection rates at <100ms latency and $0.001/query\u2014orders of magnitude faster and cheaper than LLM-based approaches.",
+    "summary": "Extending YARA syntax with semantic detection for efficient GenAI-era threat hunting."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "12:25",
+    "end": "13:30",
+    "title": "Lunch break",
+    "speakers": [],
+    "company": "",
+    "abstract": "",
+    "summary": "Mid-day break for lunch and networking."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 2",
+    "start": "12:25",
+    "end": "13:30",
+    "title": "Lunch break",
+    "speakers": [],
+    "company": "",
+    "abstract": "",
+    "summary": "Mid-day break for lunch and networking."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "13:30",
+    "end": "13:55",
+    "title": "When Passports Execute: Exploiting AI Driven KYC Pipelines",
+    "speakers": [
+      "Sean Park"
+    ],
+    "company": "TrendAI",
+    "abstract": "Modern KYC workflows increasingly delegate passport parsing, database writes, and customer verification to AI driven extraction agents. This workflow is assumed to be safe because it is \u201cjust extraction,\u201d tightly scoped by schema, and wrapped in compliance controls. In practice, it is an execution environment. We show how document embedded injects and compliance controls together steer AI agents into cross record reads and writes, enabling data theft and exfiltration without bypassing access controls.\nThis research goes beyond a one off agent or MCP exploit. We present a scalable exploitation approach that generalizes across KYC extraction agents, using LLM generated high success payloads and validating the attack with a tool using Claude Code extraction agent. A document embedded inject can steer the agent, while regulatory verification workflows complete the exploit chain.",
+    "summary": "Exploiting document-embedded injections in AI-driven KYC parsing and extraction workflows."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 2",
+    "start": "13:30",
+    "end": "13:55",
+    "title": "The Advent of Confidential AI",
+    "speakers": [
+      "Raghu Yeluri"
+    ],
+    "company": "Confidential AI",
+    "abstract": "Confidential AI is a hardware-based security approach that protects sensitive data and AI models during active processing by keeping information encrypted even while being computed on, extending beyond traditional encryption that only secures data at rest or in transit.\nThe technology relies on Trusted Execution Environments (TEEs) - secure hardware enclaves within processors (CPUs, GPUs, Accelerators) that decrypt data only within isolated spaces invisible to operating systems, cloud providers, or administrators. Along with remote attestation, this approach protects inferencing data, prompts and context info, thus enabling the deployment of enterprise critical applications in public cloud and hybrid cloud environments.\nThis talk will give you the technology components available for Confidential AI, and real-world deployments with two example use-cases that would be of interest to other practitioners.",
+    "summary": "Securing AI models and data during processing using Trusted Execution Environments (TEEs)."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "13:55",
+    "end": "14:19",
+    "title": "FENRIR: AI Hunting for AI Zero-Days at Scale",
+    "speakers": [
+      "Peter Girnus",
+      "Derek Chen"
+    ],
+    "company": "Trend Micro's Zero Day Initiative (ZDI) / TrendAI",
+    "abstract": "Academic research shows LLM-assisted vulnerability discovery works\u2014IRIS achieves 2.5x improvement over CodeQL, Google's Big Sleep found a critical SQLite zero-day. But can it work at production scale? FENRIR has discovered 100+ vulnerabilities across AI infrastructure since mid-2025, with 21 CVEs patched including multiple CVSS 9.8 RCEs. This talk presents FENRIR's multi-stage verification pipeline: static analysis pre-triage, two-layer LLM validation (L1 prune \u2192 L2 deep-verify), and confidence-based human routing. We'll cover what worked (research-backed context generation, CWE-specific agents, pattern recognition for bypass detection), what failed (pure automation's false positives, generic prompts, insufficient context), and the hybrid model that emerged. Live demo: FENRIR analyzing AI framework code and surfacing candidates for human triage.",
+    "summary": "Trend Micro's production-scale pipeline for LLM-assisted vulnerability discovery and verification."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 2",
+    "start": "13:55",
+    "end": "14:19",
+    "title": "Tenderizing the Target: Soaking Code in Synthetic Vulnerabilities",
+    "speakers": [
+      "Aaron Grattafiori",
+      "Skyler Bingham"
+    ],
+    "company": "NVIDIA",
+    "abstract": "Marinade is an agentic workflow we built to solve a fundamental problem in security testing: getting realistic vulnerable applications that aren't contrived CTF challenges or overused training targets like DVWA. The idea is to point it at some source code\u2014Django, Spring Boot, Java, Rails, whatever\u2014and it works to analyze the codebase, understand the attack surface, and inject realistic, exploitable vulnerabilities that blend naturally into the existing code while preserving functionality. We\u2019ve found that AI is surprisingly adept at weakening security controls rather than clumsily removing them, producing bugs that look like genuine developer mistakes in a given programming language or app, and each injected vulnerability ships with a validation script proving exploitability to avoid false positives. Marinade lets you generate a large-scale synthetic corpus of vulnerable applications from real-world, production-quality codebases opening up new possibilities for scanner evaluation, red team training, and security tool benchmarking.",
+    "summary": "NVIDIA's Marinade workflow for injecting realistic, exploitable synthetic bugs into real-world code."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "14:19",
+    "end": "14:34",
+    "title": "AI Notetakers: The Most Important Person in the Room",
+    "speakers": [
+      "Joe Sullivan"
+    ],
+    "company": "Ukraine Friends and Joe Sullivan Security",
+    "abstract": "The most important attendee in your meetings isn\u2019t a person anymore. It\u2019s the AI notetaker. This system assigns action items, determines what was important, and creates the official record. When facts need revisiting, its summary is treated as impartial evidence.\nThis talk covers four areas:\nSteering: Techniques for influencing what the notetaker captures. Call it manipulation or strategic communication, the methods work and people are already using them.\nRisk: The governance gap when notetakers become infrastructure. Shadow deployments, vendor fragility, consent liability, discovery exposure.\nOpportunity: A reliable system of record for incident response.\nFramework: Enterprise readiness spanning policies, program building, and the full meeting lifecycle.",
+    "summary": "Analyzing the risks, governance, and opportunities of AI meeting assistants in enterprise environments."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 2",
+    "start": "14:19",
+    "end": "14:34",
+    "title": "Hooking Coding Agents with the Cedar Policy Language",
+    "speakers": [
+      "Matt Maisel"
+    ],
+    "company": "Sondera",
+    "abstract": "Coding agents wield dangerous access to your code and terminal, and prompt injection renders soft guardrails useless. This talk demonstrates a reference monitor using Rust hooks and Cedar policies to deterministically intercept every shell command, file read, and other actions. We\u2019ll live demo forbidding exfiltration and destructive behaviors, leaving you with an open-source tool compatible with Cursor, Claude Code, and GitHub Copilot CLI.",
+    "summary": "Using Cedar policies and Rust hooks to monitor and restrict coding agent actions in real-time."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "14:34",
+    "end": "14:55",
+    "title": "Coffee break",
+    "speakers": [],
+    "company": "",
+    "abstract": "",
+    "summary": "Networking and refreshment break."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 2",
+    "start": "14:45",
+    "end": "14:55",
+    "title": "Coffee break",
+    "speakers": [],
+    "company": "",
+    "abstract": "",
+    "summary": "Networking and refreshment break."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "14:55",
+    "end": "15:19",
+    "title": "AI go Beep Boop!",
+    "speakers": [
+      "Adam Laurie (Major Malfunction)"
+    ],
+    "company": "Alpitronic",
+    "abstract": "Hardware hacking with AI at the controls. Literally. I gave Claude my hardware lab: Laptop, USB hub, XYZ platform, PICO2, Jlink-pro, Oscilloscope, Chipshouter and some targets. Within 7 minutes it had pwned an LPC chip I had failed to glitch for 6 weeks solid. Within a month it had rewritten my entire glitching platform and now while I sleep it hacks new targets and integrates other solutions and attacks.",
+    "summary": "A demonstration of Claude autonomously performing hardware hacking and glitching attacks."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 2",
+    "start": "14:55",
+    "end": "15:19",
+    "title": "Glass-Box Security: Operationalizing Mechanistic Interpretability for Defending AI Agents",
+    "speakers": [
+      "Carl Hurd"
+    ],
+    "company": "Starseer",
+    "abstract": "Perimeter defenses are failing against the next generation of AI agents. This talk introduces \"Glass-Box Security,\" a paradigm shift that utilizes Mechanistic Interpretability and Latent Space Geometry to monitor a model\u2019s internal state for malicious intent and data exfiltration. We will explore why true observability requires a return to self-hosted infrastructure and present the Starseer architecture\u2014a technical reference for building an \"Internal EDR.\" Attendees will learn to replace fragile regex filters with \"semantic tripwires\" that detect deception and code leakage at the neuron level, long before the model generates output.",
+    "summary": "Using mechanistic interpretability and latent space geometry for internal AI monitoring (Internal EDR)."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "15:19",
+    "end": "15:45",
+    "title": "Zeal of the Convert: Taming Shai-Hulud with AI",
+    "speakers": [
+      "Rami McCarthy"
+    ],
+    "company": "Wiz",
+    "abstract": "2025 was the year of Shai-Hulud: a series of attacks leaking massive amounts of victim data onto GitHub, ungraciously scheduled for whenever I was traveling. As a responder, these internet-scale incidents were a real-world lab for evolving AI capabilities. This talk is a raw post-mortem of moving from simple \"vibe-coded\" scrapers to multi-agent triage engines that parallelize victimology and automate secret-impact analysis. Demos will drive a conversation on what actually worked, where the ground has shifted, and how \"lazy\" AI will let you down. Walk away with prompts, scripts, skills, and lessons from my scars.",
+    "summary": "Post-mortem of using multi-agent engines for incident response and secret-impact analysis."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 2",
+    "start": "15:19",
+    "end": "15:45",
+    "title": "The AI Security Larsen Effect: How to Stop the Feedback Loop",
+    "speakers": [
+      "Maxim Kovalsky"
+    ],
+    "company": "Consortium Networks",
+    "abstract": "The AI security market has 60+ vendors, and your VAR just sent 15 one-pagers. OWASP tells you what can go wrong. NIST tells you how to govern. Neither tells you which risks actually matter for YOUR architecture or HOW to implement controls given your existing stack. This talk introduces a capability-based framework that zeros in on the risks that are actually relevant, helps you decide how to address them (configure what you own, buy something new, or build it yourself), and\u2014as a consequence\u2014produces a rational vendor shortlist instead of analysis paralysis. Live demo with a realistic scenario: agentic healthcare chatbot, PHI data, existing Azure and CrowdStrike stack. We'll go from \u201cwe need AI security\u201d to implementation clarity in under 20 minutes.",
+    "summary": "A capability-based framework for selecting and implementing relevant AI security controls."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "15:45",
+    "end": "16:10",
+    "title": "Anatomy of an Agentic Personal AI Infrastructure",
+    "speakers": [
+      "Daniel Miessler"
+    ],
+    "company": "Unsupervised Learning",
+    "abstract": "A deepdive on my Personal AI infrastructure system, and the open-source project that mirrors it.",
+    "summary": "A deep dive into Daniel Miessler's personal AI infrastructure and open-source project."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 2",
+    "start": "15:45",
+    "end": "16:10",
+    "title": "Kinetic Risk: Securing and Governing Physical AI in the Wild",
+    "speakers": [
+      "Padma Apparao"
+    ],
+    "company": "Govt Agencies",
+    "abstract": "When AI leaves the screen and enters the physical world, failure shifts from misinformation to kinetic damage. Physical AI is fundamentally different from traditional AI: while performance and throughput dominate system design, the potential for physical harm means security, risk, and governance must be built in from the start. This talk explains why Vision-Language-Action (VLA) models powering robotics and autonomous machines require system-level thinking beyond model accuracy. We examine VLA-specific security risks such as sensor spoofing and embodied instruction manipulation that can lead to unsafe physical actions. The talk also explores why existing governance frameworks like the EU AI Act and NIST AI RMF fall short for adaptive, non-deterministic AI systems operating in dynamic, real-world environments. Finally, we address the organizational friction between engineering, safety, and risk teams as Physical AI scales into production. Real-world examples are used throughout to illustrate performance, security, governance, and organizational challenges.\nThe audience will leave with practical reference architecture ideas, recommendations for evolving governance frameworks, and actionable guidance for securing physical AI implementations, all framed around a \u201csafety-first\u201d mindset where innovation leads even without \u201cCtrl-Z\u201d.",
+    "summary": "Addressing security, safety, and governance challenges when AI operates in the physical world."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "16:10",
+    "end": "16:34",
+    "title": "Black-hat LLMs",
+    "speakers": [
+      "Nicholas Carlini"
+    ],
+    "company": "Anthropic",
+    "abstract": "Large language models are now capable of automating\nattacks that were previously only possible by human\nadversaries. In this talk, I discuss several ways that\nadversaries could mis-use current models in order to\ncause harm both at a larger scale and at a lower cost\nthan they do currently. For example, we find that recent\nstate-of-the-art models can now find 0-day vulnerabilities\nin large software projects that have been extensively\ntested by humans for decades. These new capabilities\nwill alter the threat landscape and require we rethink\nsecurity in the coming years.",
+    "summary": "Anthropic's research on how adversaries can misuse LLMs to automate high-impact attacks."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 2",
+    "start": "16:10",
+    "end": "16:34",
+    "title": "Trajectory-Aware Post-Training of Open-Weight Models for Security Agents",
+    "speakers": [
+      "Aaron Brown",
+      "Madhur Prashant"
+    ],
+    "company": "AWS",
+    "abstract": "Everyone talks about AI agents for security, but almost no one talks about how to post-train the underlying open-weight models that power them. Frontier APIs work for prototypes, but scaling autonomous security operations requires fine-tuned small language models optimized for your specific tooling, reasoning patterns, and operational constraints. This talk presents a complete open-source pipeline for trajectory-aware post-training of open-weight SLMs for cybersecurity tasks covering environment setup, data collection and refinement, reward function design, and a two-stage SFT to GRPO training recipe running on NVIDIA DGX Spark. We'll release training configs, the evaluation harness, and fine-tuned GLM-4.7 30B Flash weights on HuggingFace.",
+    "summary": "A pipeline for fine-tuning open-weight models specifically for autonomous cybersecurity tasks."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "16:34",
+    "end": "17:00",
+    "title": "Vibe Check: Security Failures in AI-Assisted IDEs",
+    "speakers": [
+      "Piotr Ryciak"
+    ],
+    "company": "Mindgard",
+    "abstract": "AI IDEs and coding agents expand the practical attack surface of development workflows by introducing new paths from untrusted workspace inputs to high-impact actions. This talk presents a catalog of exploitation patterns derived from vulnerability research across major AI-assisted IDEs and agents, including OpenAI Codex, Amazon Kiro, Google Antigravity, Cursor, and others, with a mix of issues already patched and others in active remediation. We organize findings by attacker effort and trigger model: zero-click paths, one-click paths, autorun behavior, and time-delayed execution. The talk is demo-driven and then generalizes beyond the demos to a repeatable playbook and checklist that security teams and builders can apply to assess and harden any AI-assisted IDE deployment.",
+    "summary": "Cataloging exploitation patterns and hardening strategies for AI-assisted development environments."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 2",
+    "start": "16:34",
+    "end": "17:00",
+    "title": "AI Found 12 Zero-Days In OpenSSL. What Does It Mean For The Industry?",
+    "speakers": [
+      "Adam Krivka",
+      "Ondrej Vlcek"
+    ],
+    "company": "AISLE",
+    "abstract": "OpenSSL is one of the most audited codebases on the planet. Its January 2026 security update fixed 12 vulnerabilities -- all of which were found and reported by our AI system. Three had been hiding in the codebase for over two decades. In parallel, we\u2019ve identified hundreds of other vulnerabilities across critical infrastructure projects like curl, the Linux kernel, and wolfSSL.\nAI has fundamentally changed the economics of vulnerability discovery. What once required elite expertise and months of manual auditing can now be done in hours. Exploits can be engineered by autonomous agents. The cost of offensive capability is rapidly shrinking.\nThis talk explores what it takes to make AI vulnerability discovery production-grade -- and why organizations that don\u2019t adopt these systems to defend their software will be outpaced by adversaries who do.",
+    "summary": "How AI-driven discovery found long-hidden vulnerabilities in OpenSSL and changed industry economics."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 1",
+    "start": "17:00",
+    "end": "18:00",
+    "title": "Mingling & Something sweet",
+    "speakers": [
+      "Speaker"
+    ],
+    "company": "Company",
+    "abstract": "",
+    "summary": "End-of-day networking with refreshments."
+  },
+  {
+    "date": "2026-03-03",
+    "stage": "Stage 2",
+    "start": "17:00",
+    "end": "18:00",
+    "title": "Mingling & Something sweet",
+    "speakers": [
+      "Speaker"
+    ],
+    "company": "Company",
+    "abstract": "",
+    "summary": "End-of-day networking with refreshments."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 1",
+    "start": "08:30",
+    "end": "09:00",
+    "title": "Gathering & Mingling",
+    "speakers": [
+      "N/A"
+    ],
+    "company": "",
+    "abstract": "",
+    "summary": "Welcome reception and networking session."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 1",
+    "start": "09:00",
+    "end": "09:10",
+    "title": "Opening Words",
+    "speakers": [
+      "Gadi Evron"
+    ],
+    "company": "Knostic",
+    "abstract": "",
+    "summary": "Day 2 opening remarks."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 1",
+    "start": "09:10",
+    "end": "09:35",
+    "title": "200 Bugs/Week/Engineer: How We Rebuilt Trail of Bits Around AI",
+    "speakers": [
+      "Dan Guido"
+    ],
+    "company": "Trail of Bits",
+    "abstract": "AI isn\u2019t a feature you \u201cadopt.\u201d It is a force that commoditizes effort and shortens the half-life of best practices, especially in security work where trust, evidence, and privacy are non-negotiable. In this talk, I\u2019ll explain the strategy I'm using to turn Trail of Bits into an AI-native consulting firm. The core idea is a compounding operating system built from incentives, defaults, guardrails, and verification loops that let humans and autonomous agents ship high-rigor work at dramatically higher throughput.\nYou\u2019ll see the concrete artifacts that make this real: internal and external skills repositories, a curated marketplace for third-party skills, opinionated configuration baselines, and sandboxing patterns. Then I\u2019ll cover what changes when AI output scales. Pricing, staffing, and delivery models evolve when discovery becomes abundant.\nFinally, I\u2019ll show what\u2019s next in the full vision. It is to build a firm that compounds faster than the ecosystem changes, and to do it in a way others can copy as a playbook rather than a vendor pitch.",
+    "summary": "Transforming security consulting into an AI-native operation with high-rigor verification loops."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 2",
+    "start": "09:10",
+    "end": "09:35",
+    "title": "Total Recon: How We Discovered 1000s of Open Agents in the Wild",
+    "speakers": [
+      "Avishai Efrat",
+      "Roey Ben Chaim"
+    ],
+    "company": "Zenity",
+    "abstract": "AI agents quietly created a new external attack surface: copilots, custom agents, AI middleware and various deployments that ship to the internet - often without anyone realizing they are reachable, enumerable, or over-permissioned. In this talk we\u2019ll show how attackers can already find your agents in the wild, shedding light on the technical details that enable this kind of malicious activity - including how we used these details to find 1000s of exposed agents. We\u2019ll follow up with explaining how to measure exposure, see the proof for obscurity failing, and understand how to detect threat-actor agent-focused recon before it turns into an impactful attack. Capping it all off by dropping PowerPwn - a recon tool you can use to test your own exposure",
+    "summary": "Exposing the hidden attack surface of publicly reachable and over-permissioned AI agents."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 1",
+    "start": "09:35",
+    "end": "10:00",
+    "title": "8 Minutes to Admin. We Caught It in the Wild. Welcome to VibeHacking",
+    "speakers": [
+      "Sergej Epp"
+    ],
+    "company": "Sysdig",
+    "abstract": "We caught two AI-assisted attack campaigns \u2014an 8-minute AWS escalation from stolen creds to full admin, and EtherRAT, a fileless Node.js implant using Ethereum smart contracts for C2. Neither campaign introduced novel attack primitives. Both compressed known techniques to speeds and scales that break traditional detection models. This talk dissects both operations from primary forensic evidence, introduces a behavioral methodology for attributing AI-assistance when proof is impossible, and shows why blockchain C2\u2014the attacker's resilience play\u2014is actually the defender's greatest forensic gift.",
+    "summary": "Case studies of AI-accelerated cloud attacks and behavioral methods for detection."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 2",
+    "start": "09:35",
+    "end": "10:00",
+    "title": "Your Agent Works for Me Now",
+    "speakers": [
+      "Johann Rehberger"
+    ],
+    "company": "",
+    "abstract": "Agentic AI used in personal assistants, developer tools, and enterprise platforms can be infected with promptware, engineered prompts that act like malware.\nThis talk demonstrates attacks and exploit chains, including delayed tool invocation and intent activation tricks that bypass existing mitigations. Attacks enable persistence, lateral movement across agentic systems, promptware-powered C2, and data exfiltration.\nSeveral of the exploit demos have not been publicly disclosed before, including attacks against Gemini, Copilot and others.\nMany of these issues are not edge cases or unknown problems. Even where simple fixes exist, new and more powerful AI systems keep reintroducing known vulnerability classes while increasing scale and blast radius at the same time. By shipping agents with insecure defaults, responsibility is pushed onto end users.",
+    "summary": "Demonstrating 'promptware' exploit chains that bypass mitigations in personal and enterprise agents."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 1",
+    "start": "10:00",
+    "end": "10:25",
+    "title": "macOS Vulnerability Research: Augmenting Apple's Source Code and OS Logs with AI Agents",
+    "speakers": [
+      "Olivia Gallucci"
+    ],
+    "company": "Datadog",
+    "abstract": "Have you ever wondered how macOS and iOS work under the hood? While Apple is known for its closed ecosystem, did you know that significant portions of macOS and iOS are open source, including security components? For researchers, learning how to analyze and exploit this open-source code, especially with the help of AI, is a game-changer. This talk walks through how we can operationalize Apple's partial open-source codebase for offensive security: specifically, through the lens of reverse engineering, fuzzing, and vulnerability discovery. We'll cover how to integrate generative AI and AI tooling into a workflow for automating the triage of open-source diffs, identification of code changes with high exploit potential, and prioritization of fuzzing targets within the shared macOS/iOS codebase.",
+    "summary": "Using AI agents to automate reverse engineering and vulnerability discovery in macOS/iOS code."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 2",
+    "start": "10:00",
+    "end": "10:25",
+    "title": "Capability-Based Authorization for AI Agents: Warrants That Survive Prompt Injection",
+    "speakers": [
+      "Niki Aimable Niyikiza"
+    ],
+    "company": "Snap",
+    "abstract": "Prompt injection filters and coarse IAM roles consistently fail in multi-agent setups.\nI'll show a working alternative: treating agent authority as ephemeral, cryptographic warrants that attenuate on delegation (inspired by Macaroons/UCAN), task-scoped, holder-bound, and verified offline by tools in microseconds. Even a fully compromised agent can't escalate or exfiltrate beyond its bounds.\nLive demos in LangChain/LangGraph multi-agent workflows, benchmarks against adaptive injection/escalation attacks, and an honest look at remaining gaps (e.g., constraints that require runtime context).\nAudience Takeaways:\n1) Why identity-based authorization fails for AI agents\n2) How capability tokens bound blast radius without blocking legitimate use\n3) Practical patterns for delegation in multi-agent systems",
+    "summary": "Implementing ephemeral, cryptographic warrants for secure delegation in multi-agent workflows."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 1",
+    "start": "10:25",
+    "end": "10:55",
+    "title": "Coffee break",
+    "speakers": [],
+    "company": "",
+    "abstract": "",
+    "summary": "Networking and refreshment break."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 2",
+    "start": "10:25",
+    "end": "10:55",
+    "title": "Coffee break",
+    "speakers": [],
+    "company": "",
+    "abstract": "",
+    "summary": "Networking and refreshment break."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 1",
+    "start": "10:55",
+    "end": "11:19",
+    "title": "Promp2Pwn - LLMs Winning at Pwn2Own",
+    "speakers": [
+      "Georgi G"
+    ],
+    "company": "Interrupt Labs",
+    "abstract": "We built an agentic AI to hunt bugs for Pwn2Own and it delivered. Among the issues it found was a vulnerability in Samsung's own AI assistant, Bixby. In this talk, we'll show how we wired it up, what worked, what didn't, and why letting machines hunt bugs made Pwn2Own fun again.",
+    "summary": "Using agentic AI to hunt high-impact bugs for the Pwn2Own competition."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 2",
+    "start": "10:55",
+    "end": "11:19",
+    "title": "Injecting Security Context During Vibe Coding",
+    "speakers": [
+      "Srajan Gupta"
+    ],
+    "company": "Dave",
+    "abstract": "Vibe coding with AI tools like Cursor is fast, but it quietly bypasses traditional AppSec controls. In this talk, we demo an MCP server that injects security context directly into the AI coding loop. Before code is generated, it pulls threat models, security requirements, and OWASP guidance for your task. After generation, it verifies the output for vulnerabilities and if it meets the security standards",
+    "summary": "An MCP server that injects security context directly into the AI coding loop."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 1",
+    "start": "11:19",
+    "end": "11:45",
+    "title": "Breaking the Lethal Trifecta (Without Ruining Your Agents)",
+    "speakers": [
+      "Andrew Bullen"
+    ],
+    "company": "Stripe",
+    "abstract": "Prompt injection remains the elephant in the AI Security room\u2014there's no deterministic defense, yet the urgency driving AI adoption means many teams feel forced to either accept the risk or hobble their agents with overly restrictive policies. But there's a third path: containment. In this talk, I'll walk through the architectural guardrails Stripe adopted to protect our agent platform, showing how you can give agents powerful tools while ensuring minimal damage if prompt injection occurs. I'll cover strategies for preventing data exfiltration through controlled egress, share UI patterns for human confirmation flows to balance oversight with usability, and demonstrate how to enforce these guardrails at CI-time using tool annotations.",
+    "summary": "Architectural containment and guardrails for protecting agent platforms from prompt injection."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 2",
+    "start": "11:19",
+    "end": "11:45",
+    "title": "Source to Sink: How to Improve LLM First-Party Vuln Discovery",
+    "speakers": [
+      "Scott Behrens",
+      "Justice Cassel"
+    ],
+    "company": "Netflix",
+    "abstract": "We got tired of LLMs crying wolf about every string concatenation, so we built an agentic pipeline that thinks before it screams. This talk explores how to improve the accuracy and actionability of LLM-driven first-party vulnerability discovery in real-world codebases. If you've ever mass-closed 200 AI-generated \"findings,\" this talk is your therapy session.",
+    "summary": "A pipeline to improve the accuracy and actionability of LLM-driven vulnerability findings."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 1",
+    "start": "11:45",
+    "end": "12:10",
+    "title": "Building Secure Agentic Systems: Lessons from Daily-Driver Agents",
+    "speakers": [
+      "Brooks McMillin"
+    ],
+    "company": "Dropbox",
+    "abstract": "No polished demos or theoretical architectures - this talk shows what actually breaks when you build agents you use every day. I'll walk through real patterns from building specialized agents with shared infrastructure: capability bounding to prevent tool abuse, prompt injection detection that required real-world tuning, multi-agent memory isolation failures (and the fix), and OAuth device flow for headless operation. Expect live demos, actual code, and honest discussion of security decisions that worked as well as the ones I had to fix after they broke.",
+    "summary": "Practical lessons and architectural patterns from building and using agents in daily workflows."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 2",
+    "start": "11:45",
+    "end": "12:10",
+    "title": "The Parseltongue Protocol: A Deep Dive into 100+ Textual Obfuscation Methods",
+    "speakers": [
+      "Joey Melo"
+    ],
+    "company": "CrowdStrike",
+    "abstract": "Large Language Models are designed with robust multilingual and multi-encoding support, but this versatility creates a new security vulnerability. This talk presents the results of a systematic empirical study where 100+ encoding and encryption techniques where used against 9 leading AI models with over 17,000 malicious prompts, revealing significant gaps in current AI safety systems. Attendees will gain critical insights into the evolving prompt injection attack surface and learn which encoding mechanisms pose the greatest threat to LLM security.",
+    "summary": "Empirical study of textual encoding and obfuscation techniques used to bypass AI safety systems."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 1",
+    "start": "12:10",
+    "end": "12:25",
+    "title": "Rethinking how we evaluate security agents for real-world use",
+    "speakers": [
+      "Mudita Khurana"
+    ],
+    "company": "Airbnb",
+    "abstract": "Security agents are gaining momentum across industry, but the way we evaluate them remains rooted in narrow, outcome-only benchmarks. These evaluations tell us whether an agent produced a correct answer, but not \u201chow\u201d it arrived there or whether that behavior will remain stable once deployed.\nIn practice, security is not a sequence of isolated tasks. It is a connected, end-to-end workflow that follows a find \u2192 confirm exploit \u2192 patch \u2192 validate loop. Agents that perform well on task-specific benchmarks often fail in these multi-stage settings due to contextual loss and brittle transitions across steps.\nThis talk introduces a practical, capability-centric framework for evaluating security agents, that emphasizes observability into how agents plan, reason, use tools, and carry context across the security lifecycle & thus enable teams to better judge whether an agent is ready for real-world use.",
+    "summary": "A capability-centric framework for evaluating how security agents plan, reason, and handle context."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 2",
+    "start": "12:10",
+    "end": "12:25",
+    "title": "TBA",
+    "speakers": [],
+    "company": "",
+    "abstract": "",
+    "summary": "No summary available."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 1",
+    "start": "12:25",
+    "end": "13:30",
+    "title": "Lunch break",
+    "speakers": [],
+    "company": "",
+    "abstract": "",
+    "summary": "Mid-day break for lunch and networking."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 2",
+    "start": "12:25",
+    "end": "13:30",
+    "title": "Lunch break",
+    "speakers": [],
+    "company": "",
+    "abstract": "",
+    "summary": "Mid-day break for lunch and networking."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 1",
+    "start": "13:30",
+    "end": "13:55",
+    "title": "Securing Workspace GenAI at Google Speed: Surviving the Perfect Storm",
+    "speakers": [
+      "Nicolas Lidzborski"
+    ],
+    "company": "Google Workspace Security",
+    "abstract": "GenAI agents are currently navigating a perilous \"Perfect Storm\" defined by the dangerous intersection of three key vulnerabilities: access to sensitive data, exposure to untrusted content, and the capability to execute external commands. This technical deep dive will unveil the architectural principles and defense strategies utilized to protect Gemini and the Google Workspace ecosystem from this toxic convergence.\nMoving beyond mere hypothetical discussions, this session provides a detailed breakdown of real-world attacks, specifically, a vulnerability where an attacker could hijack an agent simply through a calendar invitation. Attendees will acquire practical insights into Google\u2019s rigorous defense-in-depth blueprint, covering advanced prompt injection defenses, strategic chaining policies for sandboxing rogue agent actions, and thorough sanitization techniques for hazardous outputs.",
+    "summary": "Defensive strategies for protecting Google Workspace agents from toxic vulnerability convergences."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 2",
+    "start": "13:30",
+    "end": "13:55",
+    "title": "1.8M Prompts, 30 Alerts: Hunting Abuse in a User-Defined Agent Ecosystem",
+    "speakers": [
+      "Matt Rittinghouse",
+      "Millie Huang"
+    ],
+    "company": "Salesforce",
+    "abstract": "How do you secure 12,000 autonomous agents when anyone can build one? Static rules alone can't catch abuse in a user-defined ecosystem without drowning your SOC in noise. Join us at the front lines of real, productionized Agentforce defense, where we process millions of daily prompts across thousands of organizations. We\u2019ll show you how we created meaningful and contextual behavioral baselines like Asset Rarity and Query Complexity, distilling a flood of unpredictable activity into fewer than 30 high-fidelity daily alerts.",
+    "summary": "Using behavioral baselines to detect abuse across thousands of autonomous agents at Salesforce."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 1",
+    "start": "13:55",
+    "end": "14:19",
+    "title": "Operation Pale Fire: How We Red-Teamed Our Own AI Agent",
+    "speakers": [
+      "Wes Ring",
+      "Josiah Peedikayil"
+    ],
+    "company": "Block",
+    "abstract": "The best defense is a good offense. When we released goose, Block's open source AI agent, we recognized the need to proactively identify how attackers will attempt to abuse it. Enter: Operation Pale Fire.",
+    "summary": "Proactive red-teaming of Block's open-source 'goose' agent to identify abuse vectors."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 2",
+    "start": "13:55",
+    "end": "14:19",
+    "title": "AI Security with Guarantees",
+    "speakers": [
+      "Ilia Shumailov"
+    ],
+    "company": "AI Sequrity Company",
+    "abstract": "In this talk I will describe how one can run modern AI agents in a way that comes with security guarantees, even for the most complex setups such as computer use",
+    "summary": "Techniques for running AI agents with formal security guarantees for complex setups."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 1",
+    "start": "14:19",
+    "end": "14:45",
+    "title": "Training BrowseSafe: Lessons from Detecting Prompt Injection in Production Browser Agents",
+    "speakers": [
+      "Kyle Polley"
+    ],
+    "company": "Security\nPerplexity",
+    "abstract": "Deploying AI agents that browse the web on behalf of users creates a critical security challenge: how do we prevent malicious websites from hijacking agent behavior through embedded prompt injections? This presentation shares our experience training and deploying BrowseSafe, a defense system now protecting browser agents in production.\nWe'll cover the model training pipeline, including how we built BrowseSafe-Bench\u2014a realistic benchmark with attacks embedded in high-entropy HTML pages that mirror actual web content. Our fine-tuned Mixture-of-Experts model (Qwen-30B) achieves F1 scores of ~0.91 while maintaining sub-100ms latency requirements for production deployment. The training process revealed key insights: attacks using linguistic camouflage, multilingual instructions, and visible text placement proved most challenging to detect, while traditional academic benchmarks significantly overestimate real-world detection accuracy.\nMore importantly, we'll discuss what we've observed in the wild since deployment. Real-world attack patterns, adversarial evolution, false positive challenges in diverse web content, and the data flywheel approach that continuously improves the model through production feedback all provide lessons for building robust security in agentic systems. This talk offers practical insights for security teams deploying AI agents that interact with untrusted web content at scale.",
+    "summary": "Training a fine-tuned model to detect prompt injections in browser-based AI agents."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 2",
+    "start": "14:19",
+    "end": "14:45",
+    "title": "From OSINT Chaos to Knowledge Graph: Building Production-Scale AI-Powered Threat Intelligence",
+    "speakers": [
+      "Dongdong Sun"
+    ],
+    "company": "Palo Alto Networks",
+    "abstract": "How do you turn millions of unstructured threat reports into a queryable knowledge graph? This talk walks through a production AI pipeline that extracts threats and relationships from raw OSINT data\u2014and the architectural decisions that make it actually work at scale.",
+    "summary": "A production pipeline for extracting structured threat intelligence from massive OSINT data."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 1",
+    "start": "14:45",
+    "end": "15:04",
+    "title": "Coffee break",
+    "speakers": [],
+    "company": "",
+    "abstract": "",
+    "summary": "Networking and refreshment break."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 2",
+    "start": "14:45",
+    "end": "15:04",
+    "title": "Coffee break",
+    "speakers": [],
+    "company": "",
+    "abstract": "",
+    "summary": "Networking and refreshment break."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 1",
+    "start": "15:04",
+    "end": "15:30",
+    "title": "Exploring the AI Automation Boundary for Threat Hunting at Datadog",
+    "speakers": [
+      "Arthi Nagarajan"
+    ],
+    "company": "Datadog",
+    "abstract": "Modern threat hunting isn\u2019t limited by a lack of telemetry\u2014it\u2019s limited by humans\u2019 ability to quickly navigate overwhelming amounts of it. At Datadog, we explored how AI can help security practitioners work across massive volumes of telemetry with diverse schemas. We automated three parts of the threat hunting workflow: hypothesis-driven query generation, iterative refinement, and narrowing toward pivotal evidence.\nIn this talk, we share the pitfalls and wins of our journey evolving a single agent into an orchestrator-subagent system. We focus on our learnings about trust, hallucinations, and evaluations amidst real-world constraints and tradeoffs that formed our definition of the automation boundary: Where AI accelerates defensive work, where it creates new risk, and the design decisions that establish trust with threat hunters.",
+    "summary": "Lessons from building an orchestrator-subagent system for high-volume telemetry threat hunting."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 2",
+    "start": "15:04",
+    "end": "15:30",
+    "title": "Beyond the Chatbot: Delivering an Agentic SOC for Real-World Defense",
+    "speakers": [
+      "Peter Smith",
+      "Ravi Kiran Sharma (RK)"
+    ],
+    "company": "Salesforce",
+    "abstract": "Moving beyond the \"copilot\" era of simple Q&A, the next frontier in security operations is the Agentic SOC\u2014a system where autonomous agents plan, reason, and act. But building this requires moving away from monolithic \"black box\" models toward a Polyphonic (Supervisor-Worker) architecture.",
+    "summary": "Building an Agentic SOC using Polyphonic supervisor-worker architectures for autonomous defense."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 1",
+    "start": "15:30",
+    "end": "15:55",
+    "title": "Detection & Deception Engineering in the Matrix",
+    "speakers": [
+      "Bob Rudis",
+      "Glenn Thorpe"
+    ],
+    "company": "GreyNoise Labs / GreyNoise Intelligence",
+    "abstract": "GreyNoise built an AI agent \u2014 Orbie \u2014 that operates on internet-scale honeypot data to surface emergent threats, identify campaigns, and write detection rules. We're sharing what works, what doesn't, and the specific campaigns we caught that traditional methods missed. You'll see how domain expert knowledge embedded in tooling lets LLMs operate on billions of network sessions, and why that matters more than the model you choose.",
+    "summary": "Using AI agents on internet-scale honeypot data to surface emergent threats and write detection rules."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 2",
+    "start": "15:30",
+    "end": "15:55",
+    "title": "Are Your LLM\u2019s Safety Mechanisms Intact? Detecting Backdoors with White-Box Analysis",
+    "speakers": [
+      "Akash Mukherje"
+    ],
+    "company": "Realm Labs",
+    "abstract": "these approaches implicitly assume that correct behavior implies intact safety mechanisms. In this talk, I\u2019ll show why that assumption can fail.\nI\u2019ll present hands-on experiments exploring a class of LLM backdoors that selectively weaken refusal behavior while continuing to appear compliant under standard evaluations. Instead of relying on black-box judgments, this work uses a white-box analysis approach: first identifying internal signals associated with refusal behavior, then examining how those signals change when a model is backdoored and triggered. The key observation is that safety can degrade internally even when outputs still look acceptable, making output-only testing insufficient for these threats.\nThe talk focuses on what this means for practitioners building and operating secure AI systems. I\u2019ll discuss how white-box analysis can provide more transparent safety signals, where it fits in the AI/ML lifecycle (e.g., pre-deployment checks or model upgrades), and how it complements existing benchmarks and red-teaming. I\u2019ll also cover practical limitations, and other possibilities of this technique.\nAttendees should leave with a concrete understanding of how backdoors can target safety mechanisms themselves, why black-box evaluations can miss these failures, and how white-box analysis can improve transparency when assessing the integrity of LLM safety behavior.",
+    "summary": "Using white-box signals to detect backdoors that selectively weaken LLM safety mechanisms."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 1",
+    "start": "15:55",
+    "end": "17:00",
+    "title": "Mingling & Something sweet",
+    "speakers": [],
+    "company": "",
+    "abstract": "",
+    "summary": "End-of-day networking with refreshments."
+  },
+  {
+    "date": "2026-03-04",
+    "stage": "Stage 2",
+    "start": "15:55",
+    "end": "17:00",
+    "title": "Mingling & Something sweet",
+    "speakers": [],
+    "company": "",
+    "abstract": "",
+    "summary": "End-of-day networking with refreshments."
+  }
+]
