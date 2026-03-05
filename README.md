@@ -18,13 +18,3 @@ This is based on Notebook LM from the [Unprompted Conference](https://unprompted
 *   **[Intent Detection](intent-detection.png)**: Concepts for identifying malicious intent within agentic reasoning loops.
 *   **[Prompt Injections](prompt-injections.png)**: Illustrating the mechanics of injection attacks and the failure of syntactic filters.
 *   **[Agentic SOC](soc.png)**: Architectural diagrams for modern, agent-augmented Security Operations Centers.
-
-## 🛠 Key Concepts
-
-*   **Subtractive Delegation (Warrants)**: Treating agent authority as ephemeral, task-scoped cryptographic grants that naturally expire and monotonically attenuate.
-*   **Model Context Protocol (MCP)**: The standard for securely connecting agents to internal data and tools.
-*   **Plan-Validate-Execute**: A safety paradigm where high-stakes actions are paused for human-in-the-loop verification.
-*   **Structural Sandboxing**: Moving defense from the "soft" prompt layer to the "hard" execution and network egress layers.
-
----
-*Note: This documentation is part of the Unprompted 2026 research series on the future of autonomous agent security.*
